@@ -4,7 +4,7 @@
 
 cask "evoclaw" do
   version "1.0.1-beta.1"
-  sha256 "763dafed65a8f919f224e8a5d181040c535406c9ebee823c0946567b5ffa17e8"
+  sha256 "e17c84bccae8fa79b5855c1a8db8ac188fe8b6a9c3d515758d16d79b4284f43b"
 
   url "https://github.com/DevEloLin/evoclaw/releases/download/v#{version}/evoclaw-macos-arm64.dmg"
   name "EvoClaw"
